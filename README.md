@@ -2,11 +2,16 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHfOpZAXf33xw/profile-displaybackgroundimage-shrink_350_1400/0/1682453675840?e=1687996800&v=beta&t=wD_UhVCnYWiQmy_TU9k4gE07iwpAXIsKvTl8jiD9xVg)
 
 <p align="right">
-<a href="https://codepen.io/@mdabdul69662508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mdabdul69662508" height="30" width="40" /></a>
+<a href="https://codepen.io/mdmamunwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdmamunwebdev" height="30" width="40" /></a>
+  
 <a href="https://twitter.com/@mdabdul69662508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdabdul69662508" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/mdmamunsoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmamunsoftdev" height="30" width="40" /></a>
+  
 <a href="https://stackoverflow.com/users/15079766/abdullah-al-mamun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mdmamunsoftdev" height="30" width="40" /></a>
+  
 <a href="https://fb.com/mdmamunsoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmamunsoftdev" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/@MDAbdul69662508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@MDAbdul69662508" height="30" width="40" /></a>
 </p>
 
