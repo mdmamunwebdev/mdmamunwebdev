@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmamunwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="mdmamunwebdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmamunwebdev" alt="mdmamunwebdev" /></a> </p><br><br>
+<p align="left"> <a href="https://github.com/mdmamunwebdev"><img src="https://github-profile-trophy.vercel.app/?username=mdmamunwebdev" alt="mdmamunwebdev" /></a> </p><br><br>
 
 <p align="left"> <a href="https://twitter.com/@mdabdul69662508" target="blank"><img src="https://img.shields.io/twitter/follow/@mdabdul69662508?logo=twitter&style=for-the-badge" alt="@mdabdul69662508" /></a> </p>
 
