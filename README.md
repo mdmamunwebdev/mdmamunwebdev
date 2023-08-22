@@ -48,8 +48,6 @@
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers.
 
-#### About Me
-
 Passionate Software Engineer with a strong foundation in designing and developing innovative software solutions. Adept at leveraging cutting-edge technologies to solve complex problems and deliver high-quality, user-eccentric applications. Skilled in full-stack development, my experience ranges from creating robust back-end systems to crafting intuitive front-end interfaces. Proficient in multiple programming languages, including Java, Python, C#, C++, PHP, and JavaScript, and experienced in working with various frameworks and tools. I thrive in collaborative environments and excel at translating technical concepts into clear communication for cross-functional teams. Eager to contribute my expertise to dynamic projects that push the boundaries of technological advancement.
 
 <br>
