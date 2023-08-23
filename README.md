@@ -39,15 +39,11 @@ Thanks for visiting my GitHub profile! Let's bring ideas to life through lines o
 
 <br><br>
 
-### Certificate of Achievement
+### 🏆 Certificate of Achievement
 
-🏆 [JavaScript (ES6+)](https://www.sololearn.com/certificates/CT-YDHEQLS5) 
-
-🏆 [PHP](https://www.sololearn.com/certificates/CT-K8KUWM9B)
-
-🏆 [Web Development Fundamentals](https://www.sololearn.com/certificates/CT-Z8V2WBLN)
-
-
+- JavaScript: 🚀 [JavaScript (ES6+)](https://www.sololearn.com/certificates/CT-YDHEQLS5) 
+- PHP: 💻 [PHP](https://www.sololearn.com/certificates/CT-K8KUWM9B)
+- Web Development: 🌐 [Web Development Fundamentals](https://www.sololearn.com/certificates/CT-Z8V2WBLN)
 
 <br><br>
 
