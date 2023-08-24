@@ -72,8 +72,8 @@ Thanks for visiting my GitHub profile! Let's bring ideas to life through lines o
 
 <br><br><br>
 
-<img align="left" width="55%"  src="https://github-profile-trophy.vercel.app/?username=mdmamunwebdev&theme=tokyonight" alt="mdmamunwebdev" />
-<p  align="right" width="45%"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmamunwebdev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdmamunwebdev" /></p>
+<img align="left" width="55%"  src="https://github-profile-trophy.vercel.app/?username=mdmamunwebdev&theme=onedark" alt="mdmamunwebdev" />
+<p  align="right" width="45%"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmamunwebdev&show_icons=true&locale=en&layout=compact&theme=dark" alt="mdmamunwebdev" /></p>
 
 <br><br><br>
 
@@ -93,7 +93,7 @@ Passionate Software Engineer with a strong foundation in designing and developin
 
 #### Github Stats
 
-![mdmamunwebdev's github stats](https://github-readme-stats.vercel.app/api?username=mdmamunwebdev&count_private=true&theme=tokyonight&hide=contribs,prs)
+![mdmamunwebdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmamunwebdev&theme=dark&show_icons=true&hide=contribs,prs)
 
 <br>
 
